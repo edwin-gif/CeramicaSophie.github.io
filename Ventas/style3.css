@@ -1,0 +1,119 @@
+.promo {
+    background-color: bisque;
+}
+
+#navegacion ul {
+    list-style-type: none;
+    text-align: right;
+    color: white;
+}
+
+#navegacion li {
+    display: inline;
+    text-align: right;
+    margin: 0 10px 0 0;
+    color: white;
+}
+
+.header {
+    padding-top: 20px 10px 20px 10px;
+    background-color: rgb(115, 114, 113);
+    overflow: auto;
+}
+
+.ini {
+    color: white;
+    text-decoration: none;
+}
+
+.in {
+    color: white;
+    text-decoration: none;
+}
+
+.pro {
+    color: white;
+    text-decoration: none;
+}
+
+.titulo {
+    color: white;
+    text-align: center;
+    top: 40px;
+}
+
+.img1 {
+    float: left;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 17px;
+    min-height: 270px;
+    position: relative;
+    text-align: left;
+}
+
+footer {
+    background-color: rgb(115, 114, 113);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img1_1 {
+    float: left;
+    padding-left: 10px;
+    padding-bottom: 50px;
+}
+
+th {
+    float: right;
+    background-color: rgb(255, 171, 145);
+    color: black;
+}
+
+tr {
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+.vision h2 {
+    text-align: center;
+    color: white;
+}
+
+.mision h2 {
+    text-align: center;
+    color: white;
+}
+
+.mision p {
+    text-align: center;
+    color: white;
+}
+
+.vision p {
+    text-align: center;
+    color: white;
+}
+
+.vision {
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+}
+
+.hrf {
+    background-color: black;
+    padding-top: 20px 10px 20px 10px;
+    overflow: auto;
+}
